@@ -1,0 +1,7 @@
+{
+  "name": "ReservaVeiculosApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
